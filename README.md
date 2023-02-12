@@ -1,1 +1,2 @@
-# Ticktactoe-game
+# Tic-Tac-Toe
+The Game
